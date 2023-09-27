@@ -1,5 +1,7 @@
 ## JavaScript Callbacks
+
 1. Doubling array elements using callbacks
+    
 ```
 const arr = [1,2,3,4];
 
@@ -18,4 +20,5 @@ const result = doubleValue(arr, func);
 console.log(result);
 
 ```
+
 2. 
